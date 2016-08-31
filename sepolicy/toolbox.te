@@ -1,0 +1,2 @@
+allow toolbox sysfs:dir setattr;
+allow toolbox sysfs:file setattr;
